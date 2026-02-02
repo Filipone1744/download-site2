@@ -64,7 +64,7 @@
     <p>Version: <strong>2024.11.12</strong></p>
     <p>Click below to download the ZIP file.</p>
 
-    <a class="btn" href="downloads/Geometry.Dash.v2024.11.12.zip" download>
+    <a class="btn" href="https://github.com/Filipone1744/download-site2/releases/download/v1/Geometry.Dash.v2024.11.12.zip" download>
       ⬇ Download
     </a>
 
@@ -72,7 +72,7 @@
       ⬇ Download Geometry Dash
     </a>
 
-    <a class="btn" style="margin-top:12px;background:#03a9f4;color:#fff" href="downloads/geode-installer-v4.10.0-win.exe" download>
+    <a class="btn" style="margin-top:12px;background:#03a9f4;color:#fff" href="https://github.com/Filipone1744/download-site2/releases/download/v1/geode-installer-v4.10.0-win.1.exe" download>
       ⬇ Download Geode Installer
     </a>
 
